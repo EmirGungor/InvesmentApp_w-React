@@ -47,10 +47,9 @@ npm start
 ├── 📄 index.js         # Entry point of the React app.
 └── 📂 assets
     └── 📄 investment-calculator-logo.png # logo of the app.
+```
 
 
-
-    
 
   ## 🤝 Contributing
 **Want to contribute? Follow these steps:
