@@ -34,6 +34,7 @@ npm start
 ```
 
 ## 📌 Code Structure
+```plaintext
 📂 src
 ├── 📂 components
 │   ├── 📄 Header.js      # Displays the application header and logo.
